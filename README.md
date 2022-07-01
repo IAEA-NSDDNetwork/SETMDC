@@ -5,6 +5,10 @@ SETMDC  is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.or
 
 Address any feedback to the Brookhaven National Nuclear Data Center  NNDC@BNL.GOV
 
+## Change history
+
+#### 2002-95
+Version 6(18)
 
 ## Disclaimer
 
